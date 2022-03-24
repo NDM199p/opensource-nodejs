@@ -1,0 +1,116 @@
+[
+  {
+    "shortcut": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "sex": "female",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "contributions": ["First computer program"],
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/1280px-Ada_Lovelace_portrait.jpg"
+  },
+  {
+    "shortcut": "grace-hopper",
+    "name": "Grace Hopper",
+    "sex": "male",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "contributions": ["A-0 System", "COBOL"],
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/1920px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg"
+  },
+  {
+    "shortcut": "alan-turing",
+    "name": "Alan Turing",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "sex": "male",
+    "contributions": [
+      "Universal Computing Machine",
+      "Turing Test",
+      "Breaking The Enigma Code"
+    ],
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg"
+  },
+  {
+    "shortcut": "jessica-mckellar",
+    "name": "Jessica McKellar",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "sex": "female",
+    "contributions": ["Python", "Dropbox"],
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jessica_McKellar_selfportrait_BW.jpeg/1920px-Jessica_McKellar_selfportrait_BW.jpeg"
+  },
+  {
+    "shortcut": "karolina-szczur",
+    "name": "Karolina Szczur",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "sex": "female",
+    "contributions": ["JSConfAU", "CSSConfAU"],
+    "picture": "https://avatars0.githubusercontent.com/u/375731?s=460&v=4"
+  },
+  {
+    "shortcut": "john-resig",
+    "name": "John Resig",
+    "sex": "male",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "contributions": ["jQuery", "Processing.js"],
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Jresig.png"
+  },
+  {
+    "shortcut": "tracy-lee",
+    "name": "Tracy Lee",
+    "sex": "female",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "contributions": ["Modern Web Podcast"],
+    "picture": "https://avatars0.githubusercontent.com/u/8270563?s=400&v=4"
+  },
+  {
+    "shortcut": "john-papa",
+    "name": "John Papa",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "sex": "male",
+    "contributions": ["angular-styleguide", "vscode-angular-snippets"],
+    "picture": "https://avatars0.githubusercontent.com/u/1202528?s=460&v=4"
+  },
+  {
+    "shortcut": "salman-khan",
+    "name": "Salman Khan",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "sex": "male",
+    "contributions": ["Khan Academy"],
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Salman_Khan_TED_2011.jpg/1920px-Salman_Khan_TED_2011.jpg"
+  },
+  {
+    "shortcut": "quincy-larson",
+    "name": "Quincy Larson",
+    "sex": "male",
+    "birthday": "19-02-2002",
+    "native-land": "VietNam",
+    "job": "haha",
+    "marital-status":"Alone",
+    "contributions": ["freeCodeCamp"],
+    "picture": "https://avatars2.githubusercontent.com/u/985197?s=460&v=4"
+  }
+]
